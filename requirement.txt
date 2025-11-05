@@ -1,5 +1,5 @@
-# Student Data Managemet System 
-1. MY SQL
-2. Python
-3. Faker Python Librarys
-4. Streamlit UI 
+python
+mysql
+streamlit
+mysql-connector
+pandas
