@@ -3,3 +3,4 @@ mysql
 streamlit
 mysql-connector
 pandas
+faker
